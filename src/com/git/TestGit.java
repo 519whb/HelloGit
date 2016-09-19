@@ -7,6 +7,6 @@ public class TestGit {
 		System.out.println(22222222);
 		System.out.println(777777777);
 		int i=0;
-		int i=1;
+		int j=1;
 	}
 }
